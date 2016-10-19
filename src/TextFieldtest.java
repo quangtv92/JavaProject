@@ -11,6 +11,6 @@ public class TextFieldtest extends Frame {
 		tf1.setEditable(true);
 		if(tf1.isEditable()) System.out.println("Hien ra.");
 		else
-			System.out.println("cung Hien ra.");
+			System.out.println("Khong cho phep nhap.");
 	}
 }
